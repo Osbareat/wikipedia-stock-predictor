@@ -1,0 +1,27 @@
+# CODS620 Final Code Project - Dependencies
+# Wikipedia Pageviews as Alternative Data for Stock Return Prediction
+
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+
+# Data Fetching
+requests>=2.31.0
+yfinance>=0.2.28
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Storage Formats
+pyarrow>=12.0.0        # For Parquet support
+openpyxl>=3.1.0        # For Excel support
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
